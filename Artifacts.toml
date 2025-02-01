@@ -1,0 +1,128 @@
+[[Lingeling]]
+arch = "aarch64"
+git-tree-sha1 = "e0fb88bdc99a287138ec38a5e098fb31d40cecd5"
+libc = "glibc"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "837fedee43664f89dc1b71a46a7e2d3abcef7aa982ae28406952b7dfc53e1aaa"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[Lingeling]]
+arch = "aarch64"
+git-tree-sha1 = "4a12ff1f52e40a81c69b9e48e3cd1ea8af2f668c"
+libc = "musl"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "4b870c716081e22cce1ccc0a77f476287f3ab91456948a3ef631d2bb7ff27f21"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.aarch64-linux-musl.tar.gz"
+[[Lingeling]]
+arch = "aarch64"
+git-tree-sha1 = "a484b4966b24869465e9a2f9bea2cabf4f8f4cc9"
+os = "freebsd"
+
+    [[Lingeling.download]]
+    sha256 = "87dcfd0106bf2d077c9708b6fd2379069b5a40c4f09c88dc1ad06f9a901adf80"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.aarch64-unknown-freebsd.tar.gz"
+[[Lingeling]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "383f2c12287cfa51c80e525f30075368962dcf13"
+libc = "glibc"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "9263d9779604200c2a5a1818b6584ca3c2eed60ac07f4499c3d5313b1ce7dc58"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[Lingeling]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "bdf8f79cb29d9a975ebed00c5c0f782246cbecd7"
+libc = "musl"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "e879d64a046d0131a7aad8b11ebb791fbe89d4a472f7764e4d140b1b1aec16fa"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[Lingeling]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2e17e3c615a374077c6db4dcc10d2f986e5ecf12"
+libc = "glibc"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "1acfae5aaab79d51d06bebd613806bfc99880011405564c43430aa6ae91ed92a"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[Lingeling]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "89ef31f9b12dc2988810a7110912de35a29b8bcd"
+libc = "musl"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "ed3c253bda60f482f775198c53b6bc3138ad4ecb219bfb3341c51e41807248d4"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[Lingeling]]
+arch = "i686"
+git-tree-sha1 = "f64d62c7691dd17aff1f5ab75ab7f0f7dcd97c25"
+libc = "glibc"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "6f8ab5ef068fd5835596e3ccc01480e0ffd2011d2d970e2e015781eb404acc30"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.i686-linux-gnu.tar.gz"
+[[Lingeling]]
+arch = "i686"
+git-tree-sha1 = "113a490a0f9d5a21a2261b6de5cfc9c5ed58bab1"
+libc = "musl"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "17ddd81dd5195ebedca4e00f8396b89d6f44c7b10ff7deadcd82bb821795b060"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.i686-linux-musl.tar.gz"
+[[Lingeling]]
+arch = "powerpc64le"
+git-tree-sha1 = "b4c149a1f91c180ecb02e534531e16ed23f281ca"
+libc = "glibc"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "322d0909d505b9e75d9cca698cbaba4c6df4d2da4c464e1f142fb52c685f24ee"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[Lingeling]]
+arch = "riscv64"
+git-tree-sha1 = "3c20f059993b503146196703ecf58eb029b6e7be"
+libc = "glibc"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "c1e9587915ac99c209f37067b9b563eba84edeb38d94c41e90cdd2ab0adbf9a0"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.riscv64-linux-gnu.tar.gz"
+[[Lingeling]]
+arch = "x86_64"
+git-tree-sha1 = "409d819959d355a6f7b77b5d7de6eef1c14e9944"
+libc = "glibc"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "22d28efda5a1dc10dcc7a92da0f9913f0884892d234ba89e37589581cc39d2d7"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[Lingeling]]
+arch = "x86_64"
+git-tree-sha1 = "8e188edea5935f571f563354455f1265e9aa4e8c"
+libc = "musl"
+os = "linux"
+
+    [[Lingeling.download]]
+    sha256 = "818b5f45c1d64e384204d96b32b5f2cfc2a6bd5c839acff1df56b2c150e9da6a"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.x86_64-linux-musl.tar.gz"
+[[Lingeling]]
+arch = "x86_64"
+git-tree-sha1 = "cf27eff69bbd7f69472e2bec86e32b9b6edd9ecf"
+os = "freebsd"
+
+    [[Lingeling.download]]
+    sha256 = "333886056a72084f0933fa836daaebf5961ba1bdb1dba550306da9e4e0da4c3e"
+    url = "https://github.com/JuliaBinaryWrappers/Lingeling_jll.jl/releases/download/Lingeling-v1.0.0+0/Lingeling.v1.0.0.x86_64-unknown-freebsd.tar.gz"
